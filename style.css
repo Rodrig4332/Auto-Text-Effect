@@ -6,7 +6,7 @@ html {
 
 body {
     font-family: 'Lato', sans-serif;
-    background-color:rgb(31, 95, 189);
+    background-color:rgb(69, 136, 237);
     margin: 0;
     display: flex;
     align-items: center;
@@ -27,7 +27,7 @@ input {
     width: 50px;
     padding: 7px;
     font-size: 18px;
-    background-color: rgb(203, 242, 242);
+    background-color: rgb(131, 243, 243);
     border: none;
     text-align: center;
 }
